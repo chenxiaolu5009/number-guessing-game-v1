@@ -34,7 +34,7 @@ def start_game():
     else:
         print(f"Unfortunately, you do not have anymore time to guess. The correct number is {answer}")
 
-
+start_game()
     
 #   When the program starts, we want to:
 #   ------------------------------------
